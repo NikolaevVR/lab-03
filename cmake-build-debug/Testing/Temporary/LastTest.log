@@ -1,0 +1,20 @@
+Start testing: May 30 22:34 RTZ 2 (ceia)
+----------------------------------------------------------
+1/1 Testing: test_input
+1/1 Test: test_input
+Command: "D:/progi/Laba3/cmake-build-debug/test_input.exe"
+Directory: D:/progi/Laba3/cmake-build-debug
+"test_input" start time: May 30 22:34 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Wrong temperature format: 10A
+Wrong temperature format: -10K
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_input" end time: May 30 22:34 RTZ 2 (ceia)
+"test_input" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 30 22:34 RTZ 2 (ceia)

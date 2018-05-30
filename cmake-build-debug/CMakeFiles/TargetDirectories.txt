@@ -1,0 +1,5 @@
+D:/progi/Laba3/cmake-build-debug/CMakeFiles/Laba3.dir
+D:/progi/Laba3/cmake-build-debug/CMakeFiles/test_input.dir
+D:/progi/Laba3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/progi/Laba3/cmake-build-debug/CMakeFiles/test.dir
+D:/progi/Laba3/cmake-build-debug/CMakeFiles/edit_cache.dir

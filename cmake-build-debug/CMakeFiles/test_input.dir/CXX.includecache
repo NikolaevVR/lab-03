@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/progi/Laba3/Temperature.cc
+Temperature.h
+D:/progi/Laba3/Temperature.h
+
+D:/progi/Laba3/Temperature.h
+iostream
+-
+sstream
+-
+
+D:/progi/Laba3/test_input.cc
+cassert
+-
+Temperature.h
+D:/progi/Laba3/Temperature.h
+
